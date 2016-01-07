@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9B7BA9C3-4EC8-46E1-84F2-DAFB93163F61}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UserInterface</RootNamespace>
+    <AssemblyName>SFdevHRMS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminlogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminlogin.Designer.cs">
+      <DependentUpon>adminlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminManage\AddNewAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminManage\AddNewAdmin.Designer.cs">
+      <DependentUpon>AddNewAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminManage\AdminMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminManage\AdminMain.Designer.cs">
+      <DependentUpon>AdminMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminManage\CheckAllAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminManage\CheckAllAdmin.Designer.cs">
+      <DependentUpon>CheckAllAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminManage\DeleteAnAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminManage\DeleteAnAdmin.Designer.cs">
+      <DependentUpon>DeleteAnAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminManage\UpdateAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminManage\UpdateAdmin.Designer.cs">
+      <DependentUpon>UpdateAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankManage\AddMoneyOnBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankManage\AddMoneyOnBank.Designer.cs">
+      <DependentUpon>AddMoneyOnBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankManage\AddNewBankInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankManage\AddNewBankInformation.Designer.cs">
+      <DependentUpon>AddNewBankInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankManage\CheckAllBankMoneyInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankManage\CheckAllBankMoneyInformation.Designer.cs">
+      <DependentUpon>CheckAllBankMoneyInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankManage\CheckAllEmployeesPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankManage\CheckAllEmployeesPayment.Designer.cs">
+      <DependentUpon>CheckAllEmployeesPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankManage\DeleteABankInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankManage\DeleteABankInformation.Designer.cs">
+      <DependentUpon>DeleteABankInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankManage\TotalEmployeePaymentAndBankMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankManage\TotalEmployeePaymentAndBankMoney.Designer.cs">
+      <DependentUpon>TotalEmployeePaymentAndBankMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankManage\WithdrawMoneyFromBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankManage\WithdrawMoneyFromBank.Designer.cs">
+      <DependentUpon>WithdrawMoneyFromBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentManage\AddNewDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentManage\AddNewDepartment.Designer.cs">
+      <DependentUpon>AddNewDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentManage\CheckAllDepartmentInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentManage\CheckAllDepartmentInfo.Designer.cs">
+      <DependentUpon>CheckAllDepartmentInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentManage\DeleteAnDepartmentInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentManage\DeleteAnDepartmentInfo.Designer.cs">
+      <DependentUpon>DeleteAnDepartmentInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentManage\UpdateDepartmentInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentManage\UpdateDepartmentInfo.Designer.cs">
+      <DependentUpon>UpdateDepartmentInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeJobInformation\AddNewOrUpdateJobStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeJobInformation\AddNewOrUpdateJobStatus.Designer.cs">
+      <DependentUpon>AddNewOrUpdateJobStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeJobInformation\CheckAllMyJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeJobInformation\CheckAllMyJob.Designer.cs">
+      <DependentUpon>CheckAllMyJob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employeelogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="employeelogin.Designer.cs">
+      <DependentUpon>employeelogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeManage\ChangeEmployeePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeManage\ChangeEmployeePassword.Designer.cs">
+      <DependentUpon>ChangeEmployeePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeManage\CheckAllEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeManage\CheckAllEmployee.Designer.cs">
+      <DependentUpon>CheckAllEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeManage\CreateNewEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeManage\CreateNewEmployee.Designer.cs">
+      <DependentUpon>CreateNewEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeManage\DeleteAnEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeManage\DeleteAnEmployee.Designer.cs">
+      <DependentUpon>DeleteAnEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeManage\EmployeeMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeManage\EmployeeMain.Designer.cs">
+      <DependentUpon>EmployeeMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeManage\updateEmployeeInformation.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="EmployeeManage\updateEmployeeInformation.Designer.cs">
+      <DependentUpon>updateEmployeeInformation.cs</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="JobAssign\AssignNewJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobAssign\AssignNewJob.Designer.cs">
+      <DependentUpon>AssignNewJob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobAssign\CheckAllAssignJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobAssign\CheckAllAssignJob.Designer.cs">
+      <DependentUpon>CheckAllAssignJob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobAssign\DeleteAnAssignJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobAssign\DeleteAnAssignJob.Designer.cs">
+      <DependentUpon>DeleteAnAssignJob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobAssign\ReassignJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobAssign\ReassignJob.Designer.cs">
+      <DependentUpon>ReassignJob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PayrollManage\AddNewSalaryBonus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PayrollManage\AddNewSalaryBonus.Designer.cs">
+      <DependentUpon>AddNewSalaryBonus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PayrollManage\CheckAllSalaryBonus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PayrollManage\CheckAllSalaryBonus.Designer.cs">
+      <DependentUpon>CheckAllSalaryBonus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PayrollManage\CheckSalaryBonusEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PayrollManage\CheckSalaryBonusEmployee.Designer.cs">
+      <DependentUpon>CheckSalaryBonusEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PayrollManage\DeleteASalaryBonus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PayrollManage\DeleteASalaryBonus.Designer.cs">
+      <DependentUpon>DeleteASalaryBonus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PayrollManage\UpdateASalaryBonus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PayrollManage\UpdateASalaryBonus.Designer.cs">
+      <DependentUpon>UpdateASalaryBonus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PerformanceManage\CheckAllPerformance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PerformanceManage\CheckAllPerformance.Designer.cs">
+      <DependentUpon>CheckAllPerformance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PerformanceManage\DeleteAnPerformance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PerformanceManage\DeleteAnPerformance.Designer.cs">
+      <DependentUpon>DeleteAnPerformance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PerformanceManage\EvaluatePerformance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PerformanceManage\EvaluatePerformance.Designer.cs">
+      <DependentUpon>EvaluatePerformance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PerformanceManage\UpdateAnPerformance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PerformanceManage\UpdateAnPerformance.Designer.cs">
+      <DependentUpon>UpdateAnPerformance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TrainingManage\CheckAllTraining.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainingManage\CheckAllTraining.Designer.cs">
+      <DependentUpon>CheckAllTraining.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainingManage\CheckAllTrainingAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainingManage\CheckAllTrainingAdmin.Designer.cs">
+      <DependentUpon>CheckAllTrainingAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainingManage\DeleteATraining.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainingManage\DeleteATraining.Designer.cs">
+      <DependentUpon>DeleteATraining.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainingManage\TakeNewTraining.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainingManage\TakeNewTraining.Designer.cs">
+      <DependentUpon>TakeNewTraining.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainingManage\UpdateATrainingInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainingManage\UpdateATrainingInformation.Designer.cs">
+      <DependentUpon>UpdateATrainingInformation.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adminlogin.resx">
+      <DependentUpon>adminlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminManage\AddNewAdmin.resx">
+      <DependentUpon>AddNewAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminManage\AdminMain.resx">
+      <DependentUpon>AdminMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminManage\CheckAllAdmin.resx">
+      <DependentUpon>CheckAllAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminManage\DeleteAnAdmin.resx">
+      <DependentUpon>DeleteAnAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminManage\UpdateAdmin.resx">
+      <DependentUpon>UpdateAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankManage\AddMoneyOnBank.resx">
+      <DependentUpon>AddMoneyOnBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankManage\AddNewBankInformation.resx">
+      <DependentUpon>AddNewBankInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankManage\CheckAllBankMoneyInformation.resx">
+      <DependentUpon>CheckAllBankMoneyInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankManage\CheckAllEmployeesPayment.resx">
+      <DependentUpon>CheckAllEmployeesPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankManage\DeleteABankInformation.resx">
+      <DependentUpon>DeleteABankInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankManage\TotalEmployeePaymentAndBankMoney.resx">
+      <DependentUpon>TotalEmployeePaymentAndBankMoney.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankManage\WithdrawMoneyFromBank.resx">
+      <DependentUpon>WithdrawMoneyFromBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentManage\AddNewDepartment.resx">
+      <DependentUpon>AddNewDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentManage\CheckAllDepartmentInfo.resx">
+      <DependentUpon>CheckAllDepartmentInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentManage\DeleteAnDepartmentInfo.resx">
+      <DependentUpon>DeleteAnDepartmentInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentManage\UpdateDepartmentInfo.resx">
+      <DependentUpon>UpdateDepartmentInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeJobInformation\AddNewOrUpdateJobStatus.resx">
+      <DependentUpon>AddNewOrUpdateJobStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeJobInformation\CheckAllMyJob.resx">
+      <DependentUpon>CheckAllMyJob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employeelogin.resx">
+      <DependentUpon>employeelogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeManage\ChangeEmployeePassword.resx">
+      <DependentUpon>ChangeEmployeePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeManage\CheckAllEmployee.resx">
+      <DependentUpon>CheckAllEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeManage\CreateNewEmployee.resx">
+      <DependentUpon>CreateNewEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeManage\DeleteAnEmployee.resx">
+      <DependentUpon>DeleteAnEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeManage\EmployeeMain.resx">
+      <DependentUpon>EmployeeMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeManage\updateEmployeeInformation.resx">
+      <DependentUpon>updateEmployeeInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobAssign\AssignNewJob.resx">
+      <DependentUpon>AssignNewJob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobAssign\CheckAllAssignJob.resx">
+      <DependentUpon>CheckAllAssignJob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobAssign\DeleteAnAssignJob.resx">
+      <DependentUpon>DeleteAnAssignJob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobAssign\ReassignJob.resx">
+      <DependentUpon>ReassignJob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PayrollManage\AddNewSalaryBonus.resx">
+      <DependentUpon>AddNewSalaryBonus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PayrollManage\CheckAllSalaryBonus.resx">
+      <DependentUpon>CheckAllSalaryBonus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PayrollManage\CheckSalaryBonusEmployee.resx">
+      <DependentUpon>CheckSalaryBonusEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PayrollManage\DeleteASalaryBonus.resx">
+      <DependentUpon>DeleteASalaryBonus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PayrollManage\UpdateASalaryBonus.resx">
+      <DependentUpon>UpdateASalaryBonus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PerformanceManage\CheckAllPerformance.resx">
+      <DependentUpon>CheckAllPerformance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PerformanceManage\DeleteAnPerformance.resx">
+      <DependentUpon>DeleteAnPerformance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PerformanceManage\EvaluatePerformance.resx">
+      <DependentUpon>EvaluatePerformance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PerformanceManage\UpdateAnPerformance.resx">
+      <DependentUpon>UpdateAnPerformance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TrainingManage\CheckAllTraining.resx">
+      <DependentUpon>CheckAllTraining.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainingManage\CheckAllTrainingAdmin.resx">
+      <DependentUpon>CheckAllTrainingAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainingManage\DeleteATraining.resx">
+      <DependentUpon>DeleteATraining.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainingManage\TakeNewTraining.resx">
+      <DependentUpon>TakeNewTraining.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainingManage\UpdateATrainingInformation.resx">
+      <DependentUpon>UpdateATrainingInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj">
+      <Project>{f97c9c4a-4166-4372-8a72-4c2569c8f99f}</Project>
+      <Name>DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{f3ea8caa-23db-41b3-a036-259cb4c782b6}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

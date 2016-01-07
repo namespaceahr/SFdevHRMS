@@ -1,0 +1,18 @@
+F:\SFdevHRMS\Entities\bin\Debug\Entities.dll
+F:\SFdevHRMS\Entities\bin\Debug\Entities.pdb
+F:\SFdevHRMS\Entities\obj\Debug\Entities.dll
+F:\SFdevHRMS\Entities\obj\Debug\Entities.pdb
+F:\SFdevHRMS\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\Entities\bin\Debug\Entities.dll
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\Entities\bin\Debug\Entities.pdb
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\Entities\obj\Debug\Entities.dll
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\Entities\obj\Debug\Entities.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\Entities\bin\Debug\Entities.dll
+C:\Users\rifat\Desktop\SFdevHRMS\Entities\bin\Debug\Entities.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\Entities\obj\Debug\Entities.dll
+C:\Users\rifat\Desktop\SFdevHRMS\Entities\obj\Debug\Entities.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\NEw\SFdevHRMS\Entities\bin\Debug\Entities.dll
+D:\NEw\SFdevHRMS\Entities\bin\Debug\Entities.pdb
+D:\NEw\SFdevHRMS\Entities\obj\Debug\Entities.dll
+D:\NEw\SFdevHRMS\Entities\obj\Debug\Entities.pdb

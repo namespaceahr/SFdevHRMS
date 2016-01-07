@@ -1,0 +1,185 @@
+F:\SFdevHRMS\UserInterface\bin\Debug\UserInterface.exe.config
+F:\SFdevHRMS\UserInterface\bin\Debug\UserInterface.exe
+F:\SFdevHRMS\UserInterface\bin\Debug\UserInterface.pdb
+F:\SFdevHRMS\UserInterface\obj\Debug\UserInterface.Main.resources
+F:\SFdevHRMS\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+F:\SFdevHRMS\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+F:\SFdevHRMS\UserInterface\obj\Debug\UserInterface.exe
+F:\SFdevHRMS\UserInterface\obj\Debug\UserInterface.pdb
+F:\SFdevHRMS\UserInterface\obj\Debug\UserInterface.adminlogin.resources
+F:\SFdevHRMS\UserInterface\obj\Debug\UserInterface.employeelogin.resources
+F:\SFdevHRMS\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+F:\SFdevHRMS\UserInterface\bin\Debug\DataLayer.dll
+F:\SFdevHRMS\UserInterface\bin\Debug\Entities.dll
+F:\SFdevHRMS\UserInterface\bin\Debug\Framework.dll
+F:\SFdevHRMS\UserInterface\bin\Debug\DataLayer.pdb
+F:\SFdevHRMS\UserInterface\bin\Debug\Entities.pdb
+F:\SFdevHRMS\UserInterface\bin\Debug\Framework.pdb
+F:\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.AddNewAdmin.resources
+F:\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.AdminMain.resources
+F:\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.CheckAllAdmin.resources
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\bin\Debug\UserInterface.exe.config
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\obj\Debug\UserInterface.exe
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\obj\Debug\UserInterface.pdb
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\bin\Debug\UserInterface.exe
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\bin\Debug\UserInterface.pdb
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\bin\Debug\DataLayer.dll
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\bin\Debug\Entities.dll
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\bin\Debug\Framework.dll
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\bin\Debug\DataLayer.pdb
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\bin\Debug\Entities.pdb
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\bin\Debug\Framework.pdb
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\obj\Debug\UserInterface.adminlogin.resources
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.AddNewAdmin.resources
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.AdminMain.resources
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.CheckAllAdmin.resources
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\obj\Debug\UserInterface.employeelogin.resources
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\obj\Debug\UserInterface.Main.resources
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\bin\Debug\UserInterface.exe.config
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\bin\Debug\UserInterface.exe
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\bin\Debug\UserInterface.pdb
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\bin\Debug\DataLayer.dll
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\bin\Debug\Entities.dll
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\bin\Debug\Framework.dll
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\bin\Debug\DataLayer.pdb
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\bin\Debug\Entities.pdb
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\bin\Debug\Framework.pdb
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\obj\Debug\UserInterface.adminlogin.resources
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.AddNewAdmin.resources
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.AdminMain.resources
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.CheckAllAdmin.resources
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\obj\Debug\UserInterface.employeelogin.resources
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\obj\Debug\UserInterface.Main.resources
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\obj\Debug\UserInterface.exe
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\obj\Debug\UserInterface.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\bin\Debug\EmployeeManage\updateEmployeeInformation.cs
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\bin\Debug\EmployeeManage\updateEmployeeInformation.Designer.cs
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\bin\Debug\SFdevHRMS.exe.config
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\bin\Debug\SFdevHRMS.exe
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\bin\Debug\SFdevHRMS.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\bin\Debug\DataLayer.dll
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\bin\Debug\Entities.dll
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\bin\Debug\Framework.dll
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\bin\Debug\DataLayer.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\bin\Debug\Entities.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\bin\Debug\Framework.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.adminlogin.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.AddNewAdmin.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.AdminMain.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.CheckAllAdmin.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.DeleteAnAdmin.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.UpdateAdmin.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.AddMoneyOnBank.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.AddNewBankInformation.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.DepartmentManage.AddNewDepartment.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.DepartmentManage.CheckAllDepartmentInfo.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.DepartmentManage.DeleteAnDepartmentInfo.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.DepartmentManage.UpdateDepartmentInfo.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeJobInformation.AddNewOrUpdateJobStatus.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeJobInformation.CheckAllMyJob.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.employeelogin.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeManage.ChangeEmployeePassword.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeManage.CheckAllEmployee.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeManage.CreateNewEmployee.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeManage.DeleteAnEmployee.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeManage.EmployeeMain.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeManage.updateEmployeeInformation.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.JobAssign.AssignNewJob.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.JobAssign.CheckAllAssignJob.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.JobAssign.DeleteAnAssignJob.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.JobAssign.ReassignJob.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.Main.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PayrollManage.AddNewSalaryBonus.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PayrollManage.CheckAllSalaryBonus.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PayrollManage.CheckSalaryBonusEmployee.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PayrollManage.DeleteASalaryBonus.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PayrollManage.UpdateASalaryBonus.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PerformanceManage.CheckAllPerformance.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PerformanceManage.DeleteAnPerformance.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PerformanceManage.EvaluatePerformance.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PerformanceManage.UpdateAnPerformance.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.TrainingManage.CheckAllTraining.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.TrainingManage.CheckAllTrainingAdmin.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.TrainingManage.DeleteATraining.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.TrainingManage.TakeNewTraining.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.TrainingManage.UpdateATrainingInformation.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\SFdevHRMS.exe
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\SFdevHRMS.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.TotalEmployeePaymentAndBankMoney.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.DeleteABankInformation.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.WithdrawMoneyFromBank.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.CheckAllBankMoneyInformation.resources
+C:\Users\rifat\Desktop\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.CheckAllEmployeesPayment.resources
+C:\Users\Rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\bin\Debug\SFdevHRMS.exe.config
+C:\Users\Rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\obj\Debug\SFdevHRMS.exe
+C:\Users\Rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\UserInterface\obj\Debug\SFdevHRMS.pdb
+D:\NEw\SFdevHRMS\UserInterface\bin\Debug\SFdevHRMS.exe.config
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\SFdevHRMS.exe
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\SFdevHRMS.pdb
+D:\NEw\SFdevHRMS\UserInterface\bin\Debug\EmployeeManage\updateEmployeeInformation.cs
+D:\NEw\SFdevHRMS\UserInterface\bin\Debug\EmployeeManage\updateEmployeeInformation.Designer.cs
+D:\NEw\SFdevHRMS\UserInterface\bin\Debug\SFdevHRMS.exe
+D:\NEw\SFdevHRMS\UserInterface\bin\Debug\SFdevHRMS.pdb
+D:\NEw\SFdevHRMS\UserInterface\bin\Debug\DataLayer.dll
+D:\NEw\SFdevHRMS\UserInterface\bin\Debug\Entities.dll
+D:\NEw\SFdevHRMS\UserInterface\bin\Debug\Framework.dll
+D:\NEw\SFdevHRMS\UserInterface\bin\Debug\DataLayer.pdb
+D:\NEw\SFdevHRMS\UserInterface\bin\Debug\Entities.pdb
+D:\NEw\SFdevHRMS\UserInterface\bin\Debug\Framework.pdb
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.adminlogin.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.AddNewAdmin.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.AdminMain.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.CheckAllAdmin.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.DeleteAnAdmin.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.AdminManage.UpdateAdmin.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.AddMoneyOnBank.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.AddNewBankInformation.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.CheckAllBankMoneyInformation.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.CheckAllEmployeesPayment.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.DeleteABankInformation.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.TotalEmployeePaymentAndBankMoney.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.BankManage.WithdrawMoneyFromBank.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.DepartmentManage.AddNewDepartment.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.DepartmentManage.CheckAllDepartmentInfo.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.DepartmentManage.DeleteAnDepartmentInfo.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.DepartmentManage.UpdateDepartmentInfo.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeJobInformation.AddNewOrUpdateJobStatus.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeJobInformation.CheckAllMyJob.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.employeelogin.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeManage.ChangeEmployeePassword.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeManage.CheckAllEmployee.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeManage.CreateNewEmployee.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeManage.DeleteAnEmployee.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeManage.EmployeeMain.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.EmployeeManage.updateEmployeeInformation.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.JobAssign.AssignNewJob.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.JobAssign.CheckAllAssignJob.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.JobAssign.DeleteAnAssignJob.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.JobAssign.ReassignJob.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.Main.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PayrollManage.AddNewSalaryBonus.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PayrollManage.CheckAllSalaryBonus.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PayrollManage.CheckSalaryBonusEmployee.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PayrollManage.DeleteASalaryBonus.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PayrollManage.UpdateASalaryBonus.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PerformanceManage.CheckAllPerformance.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PerformanceManage.DeleteAnPerformance.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PerformanceManage.EvaluatePerformance.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.PerformanceManage.UpdateAnPerformance.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.TrainingManage.CheckAllTraining.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.TrainingManage.CheckAllTrainingAdmin.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.TrainingManage.DeleteATraining.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.TrainingManage.TakeNewTraining.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.TrainingManage.UpdateATrainingInformation.resources
+D:\NEw\SFdevHRMS\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache

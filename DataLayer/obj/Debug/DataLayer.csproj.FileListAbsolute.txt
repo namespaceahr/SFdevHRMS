@@ -1,0 +1,45 @@
+F:\SFdevHRMS\DataLayer\bin\Debug\DataLayer.dll
+F:\SFdevHRMS\DataLayer\bin\Debug\DataLayer.pdb
+F:\SFdevHRMS\DataLayer\obj\Debug\DataLayer.dll
+F:\SFdevHRMS\DataLayer\obj\Debug\DataLayer.pdb
+F:\SFdevHRMS\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+F:\SFdevHRMS\DataLayer\bin\Debug\Entities.dll
+F:\SFdevHRMS\DataLayer\bin\Debug\Framework.dll
+F:\SFdevHRMS\DataLayer\bin\Debug\Entities.pdb
+F:\SFdevHRMS\DataLayer\bin\Debug\Framework.pdb
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\DataLayer\bin\Debug\Entities.dll
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\DataLayer\bin\Debug\Framework.dll
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\DataLayer\bin\Debug\Entities.pdb
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\DataLayer\bin\Debug\Framework.pdb
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Salman\Documents\TEMP\SFdevHRMS\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\DataLayer\bin\Debug\Entities.dll
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\DataLayer\bin\Debug\Framework.dll
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\DataLayer\bin\Debug\Entities.pdb
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\DataLayer\bin\Debug\Framework.pdb
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\rifat\Desktop\SFdevHRMS\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\DataLayer\bin\Debug\Entities.dll
+C:\Users\rifat\Desktop\SFdevHRMS\DataLayer\bin\Debug\Framework.dll
+C:\Users\rifat\Desktop\SFdevHRMS\DataLayer\bin\Debug\Entities.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\DataLayer\bin\Debug\Framework.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\rifat\Desktop\SFdevHRMS\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\rifat\Desktop\SFdevHRMS\DataLayer\obj\Debug\DataLayer.pdb
+D:\NEw\SFdevHRMS\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\NEw\SFdevHRMS\DataLayer\obj\Debug\DataLayer.dll
+D:\NEw\SFdevHRMS\DataLayer\bin\Debug\DataLayer.dll
+D:\NEw\SFdevHRMS\DataLayer\bin\Debug\DataLayer.pdb
+D:\NEw\SFdevHRMS\DataLayer\bin\Debug\Entities.dll
+D:\NEw\SFdevHRMS\DataLayer\bin\Debug\Framework.dll
+D:\NEw\SFdevHRMS\DataLayer\bin\Debug\Entities.pdb
+D:\NEw\SFdevHRMS\DataLayer\bin\Debug\Framework.pdb
+D:\NEw\SFdevHRMS\DataLayer\obj\Debug\DataLayer.pdb

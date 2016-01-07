@@ -1,0 +1,14 @@
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\Framework\bin\Debug\Framework.dll
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\Framework\bin\Debug\Framework.pdb
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\Framework\obj\Debug\Framework.dll
+C:\Users\rifat\Dropbox\C# Rifat Project\SalmanWork\SFdevHRMS\Framework\obj\Debug\Framework.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\Framework\bin\Debug\Framework.dll
+C:\Users\rifat\Desktop\SFdevHRMS\Framework\bin\Debug\Framework.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\Framework\obj\Debug\Framework.dll
+C:\Users\rifat\Desktop\SFdevHRMS\Framework\obj\Debug\Framework.pdb
+C:\Users\rifat\Desktop\SFdevHRMS\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+D:\NEw\SFdevHRMS\Framework\bin\Debug\Framework.dll
+D:\NEw\SFdevHRMS\Framework\bin\Debug\Framework.pdb
+D:\NEw\SFdevHRMS\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+D:\NEw\SFdevHRMS\Framework\obj\Debug\Framework.dll
+D:\NEw\SFdevHRMS\Framework\obj\Debug\Framework.pdb
