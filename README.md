@@ -19,4 +19,4 @@ Namespaceahr Facebook - https://www.facebook.com/namespaceahr
 
 Support or Contact
 
-namespaceahr site - https://www.namespaceahr.com/
+namespaceahr site - https://www.namespaceahr.eu/
